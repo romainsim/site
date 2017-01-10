@@ -48,7 +48,7 @@ td{
 }
 #moi{
   margin-top : 20px;
-  margin-left : 60px;
+  margin-left : 800px;
   width : 200px;
   height : 300px;
   box-shadow : 10px 10px 5px black;
@@ -114,7 +114,7 @@ ol.test{
   list-style-type : none;
 }
 @media print {
-  #menu, h1 {
+  #social,#sociale,#map {
    display:none;
   }
 }
